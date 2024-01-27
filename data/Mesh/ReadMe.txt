@@ -1,0 +1,1 @@
+Przed skonwertowaniem sceny nale¿y przeskalowaæ tekstury do rozmiaru bêd¹cego potêg¹ 2 (width = height = 2^d) a nastêpnie zapisaæ je w formacie mapy 24 bitowej (*.BMP).

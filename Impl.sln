@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Renderer", "Renderer\Renderer.vcxproj", "{A19CDBA1-402A-4149-BF8D-D5493BDAD1F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PointCloudConverter", "PointCloudConverter\PointCloudConverter.vcxproj", "{83504043-EE14-4E3C-B748-2ADD8718A3D0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MeshConverter", "MeshConverter\MeshConverter.vcxproj", "{CA78313C-9822-498F-9BAF-95CDB07B09CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A19CDBA1-402A-4149-BF8D-D5493BDAD1F9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A19CDBA1-402A-4149-BF8D-D5493BDAD1F9}.Debug|Win32.Build.0 = Debug|Win32
+		{A19CDBA1-402A-4149-BF8D-D5493BDAD1F9}.Debug|x64.ActiveCfg = Debug|x64
+		{A19CDBA1-402A-4149-BF8D-D5493BDAD1F9}.Debug|x64.Build.0 = Debug|x64
+		{A19CDBA1-402A-4149-BF8D-D5493BDAD1F9}.Release|Win32.ActiveCfg = Release|Win32
+		{A19CDBA1-402A-4149-BF8D-D5493BDAD1F9}.Release|Win32.Build.0 = Release|Win32
+		{A19CDBA1-402A-4149-BF8D-D5493BDAD1F9}.Release|x64.ActiveCfg = Release|x64
+		{A19CDBA1-402A-4149-BF8D-D5493BDAD1F9}.Release|x64.Build.0 = Release|x64
+		{83504043-EE14-4E3C-B748-2ADD8718A3D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{83504043-EE14-4E3C-B748-2ADD8718A3D0}.Debug|Win32.Build.0 = Debug|Win32
+		{83504043-EE14-4E3C-B748-2ADD8718A3D0}.Debug|x64.ActiveCfg = Debug|x64
+		{83504043-EE14-4E3C-B748-2ADD8718A3D0}.Debug|x64.Build.0 = Debug|x64
+		{83504043-EE14-4E3C-B748-2ADD8718A3D0}.Release|Win32.ActiveCfg = Release|Win32
+		{83504043-EE14-4E3C-B748-2ADD8718A3D0}.Release|Win32.Build.0 = Release|Win32
+		{83504043-EE14-4E3C-B748-2ADD8718A3D0}.Release|x64.ActiveCfg = Release|x64
+		{83504043-EE14-4E3C-B748-2ADD8718A3D0}.Release|x64.Build.0 = Release|x64
+		{CA78313C-9822-498F-9BAF-95CDB07B09CD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CA78313C-9822-498F-9BAF-95CDB07B09CD}.Debug|Win32.Build.0 = Debug|Win32
+		{CA78313C-9822-498F-9BAF-95CDB07B09CD}.Debug|x64.ActiveCfg = Debug|x64
+		{CA78313C-9822-498F-9BAF-95CDB07B09CD}.Debug|x64.Build.0 = Debug|x64
+		{CA78313C-9822-498F-9BAF-95CDB07B09CD}.Release|Win32.ActiveCfg = Release|Win32
+		{CA78313C-9822-498F-9BAF-95CDB07B09CD}.Release|Win32.Build.0 = Release|Win32
+		{CA78313C-9822-498F-9BAF-95CDB07B09CD}.Release|x64.ActiveCfg = Release|x64
+		{CA78313C-9822-498F-9BAF-95CDB07B09CD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
