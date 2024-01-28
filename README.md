@@ -6,6 +6,10 @@ The project consists of a main demo program named `Renderer` (which contains the
 
 The project was created as my undergraduate diploma thesis back in 2012.
 
+### Usage
+
+Build a solution using Visual Studio (all necessary files are attached). Convert a point cloud or a high-poly mesh (in OBJ format) using converters located in the `bin` directory. Run the `Renderer` program, which you can control with the mouse and WSAD keys. You can configure the programs' operation using configuration files.
+
 ![VoxelEngine](images/1.png)
 ![VoxelEngine](images/2.png)
 ![VoxelEngine](images/3.png)
