@@ -4,7 +4,7 @@ A real-time software graphics engine based on the Sparse Voxel Octree (SVO) data
 
 The project consists of a main demo program named `Renderer` (which contains the renderer) and two converters: `MeshConverter` and `PointCloudConverter`, responsible for converting the scene into an internal format. The entire project is written from scratch in C/C++. OpenGL is exclusively used for displaying already rendered images.
 
-The project was created as my undergraduate diploma thesis back in 2012.
+The project was created as my undergraduate diploma thesis back in 2014.
 
 ### Usage
 
